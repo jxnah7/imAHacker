@@ -11,3 +11,6 @@ TO/DO
   Lvl System
       Uncompleted tasks minus experience
   Notification system
+
+  next.js
+  node.
