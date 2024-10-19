@@ -1,4 +1,5 @@
 ***Frontera Devs Hackathon***
+Website using React and Node.js
 
 TO/DO
   Gemini gives tasks based off profile
